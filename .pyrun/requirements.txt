@@ -1,0 +1,7 @@
+polars
+numpy
+boto3
+Cython
+pyarrow
+click
+pandas
